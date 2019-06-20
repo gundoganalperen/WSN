@@ -1,0 +1,6 @@
+*.bin
+*.elf
+*.zoul
+*.map
+*.hex
+**/obj_zoul

@@ -1,0 +1,11 @@
+"\r Type %d Dest. Node %d: Next_hop %d  Total Hop %d Metric %d, Seq. No %d\n"
+
+
+Type 0 Dest. Node 1: Next_hop 0  Total Hop 0 Metric 0, Seq. No 120
+Type 0 Dest. Node 2: Next_hop 2  Total Hop 1 Metric -88, Seq. No 56
+Type 0 Dest. Node 3: Next_hop 2  Total Hop 2 Metric -120, Seq. No 98
+
+serial_output_tedit
+ Type 0 Dest. Node 5: Next_hop 0  Total Hop 0 Metric 0, Seq. No 694
+ Type 0 Dest. Node 3: Next_hop 3  Total Hop 0 Metric 0, Seq. No 270
+ Type 0 Dest. Node 4: Next_hop 3  Total Hop 2 Metric 0, Seq. No 34
