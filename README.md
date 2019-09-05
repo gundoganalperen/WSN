@@ -5,7 +5,7 @@ This projects includes all the system model for the TUM laboratory course [Wirel
 ## Network Setup
 The network consists of Road Side Units(RSUs) and Mobile Units(MUs) which are equipped with IR-distance sensor and force sensor respectively. RSUs provide information about traffic condition on the road and maintain a communication channel between MU and traffic center in the case of emergency. Moreover, the network traffic and emergency conditions can be tracked by the GUI.
 
-<img src="/assets/figures/network_1.png" width="55%">
+<img src="/assets/figures/network_setup.png" width="55%">
 
 
 ## Features
